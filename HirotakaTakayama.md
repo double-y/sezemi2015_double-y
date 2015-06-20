@@ -1,10 +1,10 @@
-#Introdaction
+#Introduction
 
-Hallo!
+Hello!
 
 My name is HirotakaTakayama.
 
-I rive in Tsukuba, Ibaraki, Zyapan.
+I live in Tsukuba, Ibaraki, japan.
 
 Thank you!
 
